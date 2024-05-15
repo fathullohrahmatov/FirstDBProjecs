@@ -1,0 +1,2 @@
+# FirstDBProjecs
+bir nima uchun
